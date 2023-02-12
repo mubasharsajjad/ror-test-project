@@ -7,7 +7,7 @@ Sweeten Challenege is a application for matching general contractors with homeow
 ### Installation
 Install the dependencies and devDependencies and start the server.
 ```sh
-$ git clone https://github.com/usmanasif/sweeten-challenge.git
+$ git clone https://github.com/mubasharsajjad/ror-test-project.git
 $ cd sweeten-challenge
 $ bundle install
 $ rails db:create
@@ -29,8 +29,5 @@ You are good to go! Run the app.
 
 ### Run Test cases
  ```sh
- $ rspec
- or
- $ rake
+ $ rails test
  ```
-
